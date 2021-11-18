@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    /* 解决移动端抖动 */
+    overflow: hidden;
+}
